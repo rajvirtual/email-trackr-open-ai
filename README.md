@@ -9,6 +9,8 @@ This MS Teams app allows users to view their emails and analyze their sentiments
 - Email Summarization: Generate a summary of the email content using the completion model.
 - Filter by Sentiment: Filter the emails based on sentiment (positive, negative, neutral).
 
+![MS Teams App Demo](Animation.gif)
+
 ## Configuration
 
 1. Create an Azure Text Analytics resource and obtain the API endpoint and access key.
