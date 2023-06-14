@@ -1,0 +1,56 @@
+.email {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .email-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .email-sentiment {
+    font-weight: 500;
+  }
+
+  .positive {
+    color: black;
+  }
+  
+  .negative {
+    color: red;
+  }
+  .email-details {
+    margin-top: 10px;
+  }
+  
+  .email-subject-container {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .email-subject-label {
+    font-weight: 500;
+    margin-right: 5px;
+  }
+  
+  .email-body-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+  }
+  
+  .email-sender{
+    font-weight: 500;
+  }
+  
+  .email-summary-checkbox {
+    align-self: flex-end;
+  }
+
+  .email-body {
+    margin-top: 10px;
+  }

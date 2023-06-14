@@ -1,0 +1,26 @@
+.filter-header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .user-header {
+    margin-right: 60px;
+  }
+  
+  .filter-dropdown {
+    display: flex;
+    align-items: center;
+  }
+  
+  .filter-label {
+    margin-right: 5px;
+  }
+
+  .sentiment-filter .ms-Dropdown {
+    min-width: 160px; 
+  }
+
+  .refresh-button{
+    margin-left: 10px;
+  }
